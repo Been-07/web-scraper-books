@@ -16,7 +16,6 @@ A simple web scraper that extracts book titles and images from an online booksto
 ## Installation
 ```bash
 pip install requests beautifulsoup4
-python scraper.py
 ```
 
 ## Author
