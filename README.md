@@ -21,7 +21,7 @@ A simple yet powerful web scraper built with Python that extracts:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## Author
 Benjamin Shojaee | [GitHub](https://github.com/Been-07) | [ORCID](https://orcid.org/0009-0005-2756-7140)
