@@ -13,7 +13,7 @@ A simple yet powerful web scraper built with Python that extracts:
 - Error handling for failed requests
 
 ## 🛠️ Technologies
-- Python 3.14
+- Python 3
 - Requests
 - BeautifulSoup4
 
