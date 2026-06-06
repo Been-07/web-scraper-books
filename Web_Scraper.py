@@ -37,7 +37,7 @@ if not cl_all:
     print(f"{cl_name} not found!!")
     # Terminate the program
     exit()
-    
+
 # List to store extracted titles/texts
 cl_title = []
 # List to store extracted image links
